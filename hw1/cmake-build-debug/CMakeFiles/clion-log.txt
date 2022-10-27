@@ -1,0 +1,4 @@
+D:\Software\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Software/Toolbox/apps/CLion/ch-0/222.4167.35/bin/ninja/win/ninja.exe -G Ninja -S D:\NJU\Code\CPL\hw1 -B D:\NJU\Code\CPL\hw1\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/NJU/Code/CPL/hw1/cmake-build-debug

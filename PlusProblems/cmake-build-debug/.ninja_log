@@ -1,0 +1,6 @@
+# ninja log v5
+0	155	6859515880109834	CMakeFiles/PlusProblems.dir/main.c.obj	54074749f4224ab1
+156	374	6859516570576001	PlusProblems.exe	60db6300ff48bb50
+3	155	6859516568552003	CMakeFiles/PlusProblems.dir/quine.c.obj	5f4431559a64ebc4
+2	155	6859538092880819	CMakeFiles/PlusProblems.dir/factorials_sum.c.obj	ba1eb864e8d50098
+2	162	6859538242481361	CMakeFiles/PlusProblems.dir/factorials_sum.c.obj	ba1eb864e8d50098

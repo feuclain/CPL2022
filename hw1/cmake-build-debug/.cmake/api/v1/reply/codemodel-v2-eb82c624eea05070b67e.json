@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Change::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Change-Debug-0c19478373ce237c1f20.json",
+					"name" : "Change",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Equation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Equation-Debug-fcd965f1e68ab3a5a06f.json",
+					"name" : "Equation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gravity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gravity-Debug-38e8ac96ea6e102ec0fa.json",
+					"name" : "Gravity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Inverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Inverse-Debug-d05229078de546b853db.json",
+					"name" : "Inverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Julian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Julian-Debug-34535c1a2307e5b81f10.json",
+					"name" : "Julian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pi-Debug-a60b25c0860323f1bd72.json",
+					"name" : "Pi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Time::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Time-Debug-e02b0d1b0ae0a4c367a2.json",
+					"name" : "Time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw1-Debug-9c0a358fda34f88e0580.json",
+					"name" : "hw1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/NJU/Code/CPL/hw1/cmake-build-debug",
+		"source" : "D:/NJU/Code/CPL/hw1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

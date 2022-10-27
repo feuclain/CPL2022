@@ -1,0 +1,5 @@
+
+Tc:S5276"<implicit conversion loses integer precision: 'int' to 'char'(¬èìâøÿÿÿÿ
+Hc:S1659"0Define each identifier in a dedicated statement.(ÎÝ°³üÿÿÿÿ
+@c:S3519"-Out of bound memory access (index is tainted)(¾×ÅÙ
+Uc:S3519"BOut of bound memory access (accessed memory precedes memory block)(¾×ÅÙ

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MatrixMult::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MatrixMult-Debug-0f17db08dd6fd95db004.json",
+					"name" : "MatrixMult",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw4-Debug-d51e341790cf8e3a9592.json",
+					"name" : "hw4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "life::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-life-Debug-0b543f1bba3fee7d9669.json",
+					"name" : "life",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mines::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mines-Debug-e73926ed83bce43c9aa3.json",
+					"name" : "mines",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trace-Debug-53240b5e6658c7eaedf0.json",
+					"name" : "trace",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/NJU/Code/CPL2022/hw4/cmake-build-debug",
+		"source" : "D:/NJU/Code/CPL2022/hw4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
